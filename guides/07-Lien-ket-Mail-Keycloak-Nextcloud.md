@@ -153,6 +153,11 @@ Bấm **Connect**.
 ![Manual configuration](../assets/2026-11-17/45-nextcloud-mail-manual.png)
 ![Nextcloud Mail đã kết nối](../assets/2026-11-17/46-nextcloud-mail-inbox.png)
 
+### Kiểm tra gửi/nhận thư
+Bấm **New message**, gửi thư cho chính `ductho@ad.lab.test`. Sau vài giây thư xuất hiện trong **Inbox** của Nextcloud Mail (và cả SOGo) → luồng **Nextcloud → SMTP 465 → Mailcow → IMAP 993 → Nextcloud** hoạt động.
+
+![Gửi và nhận thư thành công trong Nextcloud Mail](../assets/2026-11-17/47-nextcloud-mail-send-receive.png)
+
 ---
 
 ## Lỗi thường gặp
