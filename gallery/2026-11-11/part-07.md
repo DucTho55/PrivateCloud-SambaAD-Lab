@@ -1,0 +1,148 @@
+# Ảnh 2026-11-11 · Phần 7
+
+[← Danh mục ngày](../2026-11-11.md) · [← Toàn bộ gallery](../README.md)
+
+### 09:28:05 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:28:05](../../assets/2026-11-11/20261111-092805.png)
+
+### 09:29:23 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:29:23](../../assets/2026-11-11/20261111-092923.png)
+
+### 09:31:29 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:31:29](../../assets/2026-11-11/20261111-093129.png)
+
+### 09:36:12 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:36:12](../../assets/2026-11-11/20261111-093612.png)
+
+### 09:37:33 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:37:33](../../assets/2026-11-11/20261111-093733.png)
+
+### 09:39:53 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:39:53](../../assets/2026-11-11/20261111-093953.png)
+
+### 09:42:45 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:42:45](../../assets/2026-11-11/20261111-094245.png)
+
+### 09:44:22 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:44:22](../../assets/2026-11-11/20261111-094422.png)
+
+### 09:45:11 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:45:11](../../assets/2026-11-11/20261111-094511.png)
+
+### 09:46:23 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:46:23](../../assets/2026-11-11/20261111-094623.png)
+
+### 09:48:03 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:48:03](../../assets/2026-11-11/20261111-094803.png)
+
+### 09:48:56 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:48:56](../../assets/2026-11-11/20261111-094856.png)
+
+### 09:50:28 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:50:28](../../assets/2026-11-11/20261111-095028.png)
+
+### 09:51:48 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:51:48](../../assets/2026-11-11/20261111-095148.png)
+
+### 09:53:00 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:53:00](../../assets/2026-11-11/20261111-095300.png)
+
+### 09:54:23 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:54:23](../../assets/2026-11-11/20261111-095423.png)
+
+### 09:55:47 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:55:47](../../assets/2026-11-11/20261111-095547.png)
+
+### 09:55:49 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:55:49](../../assets/2026-11-11/20261111-095549.png)
+
+### 09:57:07 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:57:07](../../assets/2026-11-11/20261111-095707.png)
+
+### 09:58:48 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:58:48](../../assets/2026-11-11/20261111-095848.png)
+
+### 09:59:15 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:59:15](../../assets/2026-11-11/20261111-095915.png)
+
+### 09:59:58 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 09:59:58](../../assets/2026-11-11/20261111-095958.png)
+
+### 10:00:58 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 10:00:58](../../assets/2026-11-11/20261111-100058.png)
+
+### 10:01:37 UTC
+
+Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container
+
+![Screenshot 10:01:37](../../assets/2026-11-11/20261111-100137.png)
+

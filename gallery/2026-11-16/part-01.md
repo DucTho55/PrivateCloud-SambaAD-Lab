@@ -1,0 +1,148 @@
+# Ảnh 2026-11-16 · Phần 1
+
+[← Danh mục ngày](../2026-11-16.md) · [← Toàn bộ gallery](../README.md)
+
+### 01:15:43 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:15:43](../../assets/2026-11-16/20261116-011543.png)
+
+### 01:19:59 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:19:59](../../assets/2026-11-16/20261116-011959.png)
+
+### 01:21:42 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:21:42](../../assets/2026-11-16/20261116-012142.png)
+
+### 01:24:35 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:24:35](../../assets/2026-11-16/20261116-012435.png)
+
+### 01:26:12 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:26:12](../../assets/2026-11-16/20261116-012612.png)
+
+### 01:27:57 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:27:57](../../assets/2026-11-16/20261116-012757.png)
+
+### 01:29:54 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:29:54](../../assets/2026-11-16/20261116-012954.png)
+
+### 01:32:04 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:32:04](../../assets/2026-11-16/20261116-013204.png)
+
+### 01:32:18 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:32:18](../../assets/2026-11-16/20261116-013218-1.png)
+
+### 01:32:18 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:32:18](../../assets/2026-11-16/20261116-013218.png)
+
+### 01:33:15 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:33:15](../../assets/2026-11-16/20261116-013315.png)
+
+### 01:35:14 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:35:14](../../assets/2026-11-16/20261116-013514.png)
+
+### 01:41:57 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:41:57](../../assets/2026-11-16/20261116-014157.png)
+
+### 01:43:23 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:43:23](../../assets/2026-11-16/20261116-014323.png)
+
+### 01:44:31 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:44:31](../../assets/2026-11-16/20261116-014431.png)
+
+### 01:46:35 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:46:35](../../assets/2026-11-16/20261116-014635.png)
+
+### 01:55:29 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:55:29](../../assets/2026-11-16/20261116-015529.png)
+
+### 01:58:00 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:58:00](../../assets/2026-11-16/20261116-015800.png)
+
+### 01:59:52 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 01:59:52](../../assets/2026-11-16/20261116-015952.png)
+
+### 02:02:27 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 02:02:27](../../assets/2026-11-16/20261116-020227.png)
+
+### 02:03:50 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 02:03:50](../../assets/2026-11-16/20261116-020350.png)
+
+### 02:07:31 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 02:07:31](../../assets/2026-11-16/20261116-020731.png)
+
+### 02:13:25 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 02:13:25](../../assets/2026-11-16/20261116-021325.png)
+
+### 02:15:44 UTC
+
+Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi
+
+![Screenshot 02:15:44](../../assets/2026-11-16/20261116-021544.png)
+

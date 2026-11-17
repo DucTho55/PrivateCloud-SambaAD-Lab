@@ -1,0 +1,577 @@
+﻿original_filename,repo_asset,project,date,time_utc,stage,size_bytes
+image(20261110-072413).png,assets/2026-11-10/20261110-072413.png,private-cloud,2026-11-10,072413,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",1369976
+image(20261110-072837).png,assets/2026-11-10/20261110-072837.png,private-cloud,2026-11-10,072837,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",1352801
+image(20261110-073046).png,assets/2026-11-10/20261110-073046.png,private-cloud,2026-11-10,073046,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",1360257
+image(20261110-073533).png,assets/2026-11-10/20261110-073533.png,private-cloud,2026-11-10,073533,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",213819
+image(20261110-073831).png,assets/2026-11-10/20261110-073831.png,private-cloud,2026-11-10,073831,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",130678
+image(20261110-074446).png,assets/2026-11-10/20261110-074446.png,private-cloud,2026-11-10,074446,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",205193
+image(20261110-074701).png,assets/2026-11-10/20261110-074701.png,private-cloud,2026-11-10,074701,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",116478
+image(20261110-074952).png,assets/2026-11-10/20261110-074952.png,private-cloud,2026-11-10,074952,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",691900
+image(20261110-075126).png,assets/2026-11-10/20261110-075126.png,private-cloud,2026-11-10,075126,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",105750
+image(20261110-075423).png,assets/2026-11-10/20261110-075423.png,private-cloud,2026-11-10,075423,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",99863
+image(20261110-080009).png,assets/2026-11-10/20261110-080009.png,private-cloud,2026-11-10,080009,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",113946
+image(20261110-080512).png,assets/2026-11-10/20261110-080512.png,private-cloud,2026-11-10,080512,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",99103
+image(20261110-080800).png,assets/2026-11-10/20261110-080800.png,private-cloud,2026-11-10,080800,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",80303
+image(20261110-081105).png,assets/2026-11-10/20261110-081105.png,private-cloud,2026-11-10,081105,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",94056
+image(20261110-081351).png,assets/2026-11-10/20261110-081351.png,private-cloud,2026-11-10,081351,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",94503
+image(20261110-081725).png,assets/2026-11-10/20261110-081725.png,private-cloud,2026-11-10,081725,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",115484
+image(20261110-081941).png,assets/2026-11-10/20261110-081941.png,private-cloud,2026-11-10,081941,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",131945
+image(20261110-082203).png,assets/2026-11-10/20261110-082203.png,private-cloud,2026-11-10,082203,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",124213
+image(20261110-082258).png,assets/2026-11-10/20261110-082258.png,private-cloud,2026-11-10,082258,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",106029
+image(20261110-082529).png,assets/2026-11-10/20261110-082529.png,private-cloud,2026-11-10,082529,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",147728
+image(20261110-083112).png,assets/2026-11-10/20261110-083112.png,private-cloud,2026-11-10,083112,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",110243
+image(20261110-083313).png,assets/2026-11-10/20261110-083313.png,samba-ad,2026-11-10,083313,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",127408
+image(20261110-083500).png,assets/2026-11-10/20261110-083500.png,samba-ad,2026-11-10,083500,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",133750
+image(20261110-084103).png,assets/2026-11-10/20261110-084103.png,samba-ad,2026-11-10,084103,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",28691
+image(20261110-084110).png,assets/2026-11-10/20261110-084110.png,samba-ad,2026-11-10,084110,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",49638
+image(20261110-085048).png,assets/2026-11-10/20261110-085048.png,samba-ad,2026-11-10,085048,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",113172
+image(20261110-085057).png,assets/2026-11-10/20261110-085057.png,samba-ad,2026-11-10,085057,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",62015
+image(20261110-085420).png,assets/2026-11-10/20261110-085420.png,samba-ad,2026-11-10,085420,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",30855
+image(20261110-085614).png,assets/2026-11-10/20261110-085614.png,samba-ad,2026-11-10,085614,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",7366
+image(20261110-090117).png,assets/2026-11-10/20261110-090117.png,samba-ad,2026-11-10,090117,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",27888
+image(20261110-090248).png,assets/2026-11-10/20261110-090248.png,samba-ad,2026-11-10,090248,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",149961
+image(20261110-090822).png,assets/2026-11-10/20261110-090822.png,samba-ad,2026-11-10,090822,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",7739
+image(20261110-091139).png,assets/2026-11-10/20261110-091139.png,samba-ad,2026-11-10,091139,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",53882
+image(20261110-093459).png,assets/2026-11-10/20261110-093459.png,samba-ad,2026-11-10,093459,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",123395
+image(20261110-093656).png,assets/2026-11-10/20261110-093656.png,samba-ad,2026-11-10,093656,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",22847
+image(20261110-094201).png,assets/2026-11-10/20261110-094201.png,samba-ad,2026-11-10,094201,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",30751
+image(20261110-094519).png,assets/2026-11-10/20261110-094519.png,samba-ad,2026-11-10,094519,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",129455
+image(20261110-094521).png,assets/2026-11-10/20261110-094521.png,samba-ad,2026-11-10,094521,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",23532
+image(20261110-094720).png,assets/2026-11-10/20261110-094720.png,samba-ad,2026-11-10,094720,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",25338
+image(20261110-094930).png,assets/2026-11-10/20261110-094930.png,samba-ad,2026-11-10,094930,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",28693
+image(20261110-095202).png,assets/2026-11-10/20261110-095202.png,samba-ad,2026-11-10,095202,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",24387
+image(20261110-095422).png,assets/2026-11-10/20261110-095422.png,samba-ad,2026-11-10,095422,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",24429
+image(20261110-095550).png,assets/2026-11-10/20261110-095550.png,samba-ad,2026-11-10,095550,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",26605
+image(20261110-095750).png,assets/2026-11-10/20261110-095750.png,samba-ad,2026-11-10,095750,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",27438
+image(20261110-104838).png,assets/2026-11-10/20261110-104838.png,samba-ad,2026-11-10,104838,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",137207
+image(20261110-105824).png,assets/2026-11-10/20261110-105824.png,samba-ad,2026-11-10,105824,"Dựng môi trường Docker/Keycloak và VM, kiểm tra mạng ban đầu",121795
+image(20261111-012428).png,assets/2026-11-11/20261111-012428.png,samba-ad,2026-11-11,012428,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",65960
+image(20261111-012554).png,assets/2026-11-11/20261111-012554.png,samba-ad,2026-11-11,012554,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",63122
+image(20261111-012753).png,assets/2026-11-11/20261111-012753.png,samba-ad,2026-11-11,012753,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",61921
+image(20261111-013012).png,assets/2026-11-11/20261111-013012.png,samba-ad,2026-11-11,013012,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",31989
+image(20261111-013122).png,assets/2026-11-11/20261111-013122.png,samba-ad,2026-11-11,013122,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",26970
+image(20261111-014040).png,assets/2026-11-11/20261111-014040.png,samba-ad,2026-11-11,014040,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",107921
+image(20261111-015321).png,assets/2026-11-11/20261111-015321.png,samba-ad,2026-11-11,015321,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",97544
+image(20261111-020204).png,assets/2026-11-11/20261111-020204.png,samba-ad,2026-11-11,020204,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",92444
+image(20261111-020621).png,assets/2026-11-11/20261111-020621.png,samba-ad,2026-11-11,020621,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",32765
+image(20261111-020947).png,assets/2026-11-11/20261111-020947.png,samba-ad,2026-11-11,020947,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",82018
+image(20261111-021056).png,assets/2026-11-11/20261111-021056.png,samba-ad,2026-11-11,021056,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",72019
+image(20261111-021128).png,assets/2026-11-11/20261111-021128.png,samba-ad,2026-11-11,021128,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",207331
+image(20261111-021203).png,assets/2026-11-11/20261111-021203.png,samba-ad,2026-11-11,021203,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",132085
+image(20261111-021322).png,assets/2026-11-11/20261111-021322.png,samba-ad,2026-11-11,021322,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",126963
+image(20261111-021358).png,assets/2026-11-11/20261111-021358.png,samba-ad,2026-11-11,021358,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",41720
+image(20261111-021653).png,assets/2026-11-11/20261111-021653.png,samba-ad,2026-11-11,021653,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",71519
+image(20261111-021842).png,assets/2026-11-11/20261111-021842.png,samba-ad,2026-11-11,021842,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",107556
+image(20261111-022005).png,assets/2026-11-11/20261111-022005.png,samba-ad,2026-11-11,022005,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",210234
+image(20261111-022235).png,assets/2026-11-11/20261111-022235.png,samba-ad,2026-11-11,022235,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",228643
+image(20261111-022251).png,assets/2026-11-11/20261111-022251.png,samba-ad,2026-11-11,022251,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",213848
+image(20261111-022459).png,assets/2026-11-11/20261111-022459.png,samba-ad,2026-11-11,022459,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",14112
+image(20261111-022811).png,assets/2026-11-11/20261111-022811.png,samba-ad,2026-11-11,022811,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",20172
+image(20261111-022953).png,assets/2026-11-11/20261111-022953.png,samba-ad,2026-11-11,022953,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",168560
+image(20261111-023245).png,assets/2026-11-11/20261111-023245.png,samba-ad,2026-11-11,023245,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",89823
+image(20261111-023726).png,assets/2026-11-11/20261111-023726.png,samba-ad,2026-11-11,023726,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",100423
+image(20261111-023821).png,assets/2026-11-11/20261111-023821.png,samba-ad,2026-11-11,023821,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",228700
+image(20261111-023913).png,assets/2026-11-11/20261111-023913.png,samba-ad,2026-11-11,023913,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",94973
+image(20261111-024111).png,assets/2026-11-11/20261111-024111.png,samba-ad,2026-11-11,024111,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",97414
+image(20261111-024345).png,assets/2026-11-11/20261111-024345.png,samba-ad,2026-11-11,024345,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",86343
+image(20261111-024357).png,assets/2026-11-11/20261111-024357.png,samba-ad,2026-11-11,024357,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",72976
+image(20261111-024644).png,assets/2026-11-11/20261111-024644.png,samba-ad,2026-11-11,024644,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",87028
+image(20261111-024806).png,assets/2026-11-11/20261111-024806.png,samba-ad,2026-11-11,024806,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",84413
+image(20261111-025013).png,assets/2026-11-11/20261111-025013.png,samba-ad,2026-11-11,025013,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",188411
+image(20261111-025223).png,assets/2026-11-11/20261111-025223.png,samba-ad,2026-11-11,025223,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",83359
+image(20261111-025243).png,assets/2026-11-11/20261111-025243.png,samba-ad,2026-11-11,025243,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",267605
+image(20261111-025337).png,assets/2026-11-11/20261111-025337.png,samba-ad,2026-11-11,025337,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",87849
+image(20261111-025355).png,assets/2026-11-11/20261111-025355.png,samba-ad,2026-11-11,025355,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",91793
+image(20261111-030016).png,assets/2026-11-11/20261111-030016.png,samba-ad,2026-11-11,030016,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",62061
+image(20261111-030204).png,assets/2026-11-11/20261111-030204.png,samba-ad,2026-11-11,030204,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",71741
+image(20261111-030712).png,assets/2026-11-11/20261111-030712.png,samba-ad,2026-11-11,030712,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",74299
+image(20261111-030802).png,assets/2026-11-11/20261111-030802.png,samba-ad,2026-11-11,030802,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",222354
+image(20261111-030852).png,assets/2026-11-11/20261111-030852.png,samba-ad,2026-11-11,030852,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",82627
+image(20261111-031041).png,assets/2026-11-11/20261111-031041.png,samba-ad,2026-11-11,031041,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",236730
+image(20261111-031046).png,assets/2026-11-11/20261111-031046.png,samba-ad,2026-11-11,031046,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",104915
+image(20261111-031259).png,assets/2026-11-11/20261111-031259.png,samba-ad,2026-11-11,031259,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",112053
+image(20261111-031457).png,assets/2026-11-11/20261111-031457.png,samba-ad,2026-11-11,031457,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",115184
+image(20261111-031651).png,assets/2026-11-11/20261111-031651.png,samba-ad,2026-11-11,031651,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",24782
+image(20261111-032431).png,assets/2026-11-11/20261111-032431.png,samba-ad,2026-11-11,032431,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",330385
+image(20261111-032916).png,assets/2026-11-11/20261111-032916.png,samba-ad,2026-11-11,032916,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",265320
+image(20261111-033000).png,assets/2026-11-11/20261111-033000.png,samba-ad,2026-11-11,033000,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",114503
+image(20261111-033331).png,assets/2026-11-11/20261111-033331.png,samba-ad,2026-11-11,033331,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",93445
+image(20261111-033620).png,assets/2026-11-11/20261111-033620.png,samba-ad,2026-11-11,033620,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",82824
+image(20261111-033901).png,assets/2026-11-11/20261111-033901.png,samba-ad,2026-11-11,033901,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",108423
+image(20261111-034011).png,assets/2026-11-11/20261111-034011.png,samba-ad,2026-11-11,034011,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",1707563
+image(20261111-034105).png,assets/2026-11-11/20261111-034105.png,samba-ad,2026-11-11,034105,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",98250
+image(20261111-034301).png,assets/2026-11-11/20261111-034301.png,samba-ad,2026-11-11,034301,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",95572
+image(20261111-034404).png,assets/2026-11-11/20261111-034404.png,samba-ad,2026-11-11,034404,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",1717920
+image(20261111-034719).png,assets/2026-11-11/20261111-034719.png,samba-ad,2026-11-11,034719,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",94271
+image(20261111-034753).png,assets/2026-11-11/20261111-034753.png,samba-ad,2026-11-11,034753,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",1763121
+image(20261111-034857).png,assets/2026-11-11/20261111-034857.png,samba-ad,2026-11-11,034857,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",36105
+image(20261111-035128).png,assets/2026-11-11/20261111-035128.png,samba-ad,2026-11-11,035128,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",1770297
+image(20261111-035302).png,assets/2026-11-11/20261111-035302.png,samba-ad,2026-11-11,035302,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",1749101
+image(20261111-035436).png,assets/2026-11-11/20261111-035436.png,samba-ad,2026-11-11,035436,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",105496
+image(20261111-035819).png,assets/2026-11-11/20261111-035819.png,samba-ad,2026-11-11,035819,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",110588
+image(20261111-040241).png,assets/2026-11-11/20261111-040241.png,samba-ad,2026-11-11,040241,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",80215
+image(20261111-040556).png,assets/2026-11-11/20261111-040556.png,samba-ad,2026-11-11,040556,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",97884
+image(20261111-040813).png,assets/2026-11-11/20261111-040813.png,samba-ad,2026-11-11,040813,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",97123
+image(20261111-040957).png,assets/2026-11-11/20261111-040957.png,samba-ad,2026-11-11,040957,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",115491
+image(20261111-041129).png,assets/2026-11-11/20261111-041129.png,samba-ad,2026-11-11,041129,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",83302
+image(20261111-041245).png,assets/2026-11-11/20261111-041245.png,samba-ad,2026-11-11,041245,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",78572
+image(20261111-041636).png,assets/2026-11-11/20261111-041636.png,samba-ad,2026-11-11,041636,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",89361
+image(20261111-041638).png,assets/2026-11-11/20261111-041638.png,samba-ad,2026-11-11,041638,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",213986
+image(20261111-041648).png,assets/2026-11-11/20261111-041648.png,samba-ad,2026-11-11,041648,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",329420
+image(20261111-042050).png,assets/2026-11-11/20261111-042050.png,samba-ad,2026-11-11,042050,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",98696
+image(20261111-042511).png,assets/2026-11-11/20261111-042511.png,samba-ad,2026-11-11,042511,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",108257
+image(20261111-042804).png,assets/2026-11-11/20261111-042804.png,samba-ad,2026-11-11,042804,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",107875
+image(20261111-043248).png,assets/2026-11-11/20261111-043248.png,samba-ad,2026-11-11,043248,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",107320
+image(20261111-043411).png,assets/2026-11-11/20261111-043411.png,samba-ad,2026-11-11,043411,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",40285
+image(20261111-043539).png,assets/2026-11-11/20261111-043539.png,samba-ad,2026-11-11,043539,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",82301
+image(20261111-045934).png,assets/2026-11-11/20261111-045934.png,samba-ad,2026-11-11,045934,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",3589
+image(20261111-050455).png,assets/2026-11-11/20261111-050455.png,samba-ad,2026-11-11,050455,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",87131
+image(20261111-050644).png,assets/2026-11-11/20261111-050644.png,samba-ad,2026-11-11,050644,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",90572
+image(20261111-050948).png,assets/2026-11-11/20261111-050948.png,samba-ad,2026-11-11,050948,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",77586
+image(20261111-051106).png,assets/2026-11-11/20261111-051106.png,samba-ad,2026-11-11,051106,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",105779
+image(20261111-051320).png,assets/2026-11-11/20261111-051320.png,samba-ad,2026-11-11,051320,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",98421
+image(20261111-051717).png,assets/2026-11-11/20261111-051717.png,samba-ad,2026-11-11,051717,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",112756
+image(20261111-051834).png,assets/2026-11-11/20261111-051834.png,samba-ad,2026-11-11,051834,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",100830
+image(20261111-060545).png,assets/2026-11-11/20261111-060545.png,samba-ad,2026-11-11,060545,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",105939
+image(20261111-060846).png,assets/2026-11-11/20261111-060846.png,samba-ad,2026-11-11,060846,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",54688
+image(20261111-061300).png,assets/2026-11-11/20261111-061300.png,samba-ad,2026-11-11,061300,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",104091
+image(20261111-061459).png,assets/2026-11-11/20261111-061459.png,samba-ad,2026-11-11,061459,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",108021
+image(20261111-061755).png,assets/2026-11-11/20261111-061755.png,samba-ad,2026-11-11,061755,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",350977
+image(20261111-061805).png,assets/2026-11-11/20261111-061805.png,samba-ad,2026-11-11,061805,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",125610
+image(20261111-062118).png,assets/2026-11-11/20261111-062118.png,samba-ad,2026-11-11,062118,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",94071
+image(20261111-062326).png,assets/2026-11-11/20261111-062326.png,samba-ad,2026-11-11,062326,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",123882
+image(20261111-062615).png,assets/2026-11-11/20261111-062615.png,samba-ad,2026-11-11,062615,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",107373
+image(20261111-062728).png,assets/2026-11-11/20261111-062728.png,samba-ad,2026-11-11,062728,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",105867
+image(20261111-062935).png,assets/2026-11-11/20261111-062935.png,samba-ad,2026-11-11,062935,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",127934
+image(20261111-063024).png,assets/2026-11-11/20261111-063024.png,samba-ad,2026-11-11,063024,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",714607
+image(20261111-063101).png,assets/2026-11-11/20261111-063101.png,samba-ad,2026-11-11,063101,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",91398
+image(20261111-063156).png,assets/2026-11-11/20261111-063156.png,samba-ad,2026-11-11,063156,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",92531
+image(20261111-063521).png,assets/2026-11-11/20261111-063521.png,samba-ad,2026-11-11,063521,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",106437
+image(20261111-063622).png,assets/2026-11-11/20261111-063622.png,samba-ad,2026-11-11,063622,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",101125
+image(20261111-063755).png,assets/2026-11-11/20261111-063755.png,samba-ad,2026-11-11,063755,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",144382
+image(20261111-064010).png,assets/2026-11-11/20261111-064010.png,samba-ad,2026-11-11,064010,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",102729
+image(20261111-064135).png,assets/2026-11-11/20261111-064135.png,samba-ad,2026-11-11,064135,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",108641
+image(20261111-064224).png,assets/2026-11-11/20261111-064224.png,samba-ad,2026-11-11,064224,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",399526
+image(20261111-064344).png,assets/2026-11-11/20261111-064344.png,samba-ad,2026-11-11,064344,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",100476
+image(20261111-064456).png,assets/2026-11-11/20261111-064456.png,samba-ad,2026-11-11,064456,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",73716
+image(20261111-064538).png,assets/2026-11-11/20261111-064538.png,samba-ad,2026-11-11,064538,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",392379
+image(20261111-064622).png,assets/2026-11-11/20261111-064622.png,samba-ad,2026-11-11,064622,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",69201
+image(20261111-064717).png,assets/2026-11-11/20261111-064717.png,samba-ad,2026-11-11,064717,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",276371
+image(20261111-064744).png,assets/2026-11-11/20261111-064744.png,samba-ad,2026-11-11,064744,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",74402
+image(20261111-064945).png,assets/2026-11-11/20261111-064945.png,samba-ad,2026-11-11,064945,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",94983
+image(20261111-064959).png,assets/2026-11-11/20261111-064959.png,samba-ad,2026-11-11,064959,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",390988
+image(20261111-065053).png,assets/2026-11-11/20261111-065053.png,samba-ad,2026-11-11,065053,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",73870
+image(20261111-065140).png,assets/2026-11-11/20261111-065140.png,samba-ad,2026-11-11,065140,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",419589
+image(20261111-070243).png,assets/2026-11-11/20261111-070243.png,samba-ad,2026-11-11,070243,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",160303
+image(20261111-070440).png,assets/2026-11-11/20261111-070440.png,samba-ad,2026-11-11,070440,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",293726
+image(20261111-070522).png,assets/2026-11-11/20261111-070522.png,samba-ad,2026-11-11,070522,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",326245
+image(20261111-070711).png,assets/2026-11-11/20261111-070711.png,samba-ad,2026-11-11,070711,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",326657
+image(20261111-070850).png,assets/2026-11-11/20261111-070850.png,samba-ad,2026-11-11,070850,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",142245
+image(20261111-071828).png,assets/2026-11-11/20261111-071828.png,samba-ad,2026-11-11,071828,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",181210
+image(20261111-072920).png,assets/2026-11-11/20261111-072920.png,samba-ad,2026-11-11,072920,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",1658714
+image(20261111-073404).png,assets/2026-11-11/20261111-073404.png,samba-ad,2026-11-11,073404,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",365608
+image(20261111-073700).png,assets/2026-11-11/20261111-073700.png,samba-ad,2026-11-11,073700,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",186142
+image(20261111-074746).png,assets/2026-11-11/20261111-074746.png,samba-ad,2026-11-11,074746,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",163847
+image(20261111-080540).png,assets/2026-11-11/20261111-080540.png,samba-ad,2026-11-11,080540,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",190654
+image(20261111-085231).png,assets/2026-11-11/20261111-085231.png,samba-ad,2026-11-11,085231,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",96282
+image(20261111-085521).png,assets/2026-11-11/20261111-085521.png,samba-ad,2026-11-11,085521,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",123465
+image(20261111-085702).png,assets/2026-11-11/20261111-085702.png,samba-ad,2026-11-11,085702,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",129182
+image(20261111-085831).png,assets/2026-11-11/20261111-085831.png,samba-ad,2026-11-11,085831,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",105372
+image(20261111-090106).png,assets/2026-11-11/20261111-090106.png,samba-ad,2026-11-11,090106,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",96543
+image(20261111-090320).png,assets/2026-11-11/20261111-090320.png,samba-ad,2026-11-11,090320,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",101692
+image(20261111-090429).png,assets/2026-11-11/20261111-090429.png,samba-ad,2026-11-11,090429,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",99928
+image(20261111-090656).png,assets/2026-11-11/20261111-090656.png,samba-ad,2026-11-11,090656,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",116475
+image(20261111-090838).png,assets/2026-11-11/20261111-090838.png,samba-ad,2026-11-11,090838,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",119470
+image(20261111-091047).png,assets/2026-11-11/20261111-091047.png,samba-ad,2026-11-11,091047,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",113649
+image(20261111-091257).png,assets/2026-11-11/20261111-091257.png,samba-ad,2026-11-11,091257,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",113900
+image(20261111-091500).png,assets/2026-11-11/20261111-091500.png,samba-ad,2026-11-11,091500,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",118959
+image(20261111-091739).png,assets/2026-11-11/20261111-091739.png,samba-ad,2026-11-11,091739,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",111797
+image(20261111-091923).png,assets/2026-11-11/20261111-091923.png,samba-ad,2026-11-11,091923,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",99034
+image(20261111-092024).png,assets/2026-11-11/20261111-092024.png,samba-ad,2026-11-11,092024,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",119761
+image(20261111-092133).png,assets/2026-11-11/20261111-092133.png,samba-ad,2026-11-11,092133,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",135845
+image(20261111-092805).png,assets/2026-11-11/20261111-092805.png,samba-ad,2026-11-11,092805,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",67013
+image(20261111-092923).png,assets/2026-11-11/20261111-092923.png,samba-ad,2026-11-11,092923,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",123847
+image(20261111-093129).png,assets/2026-11-11/20261111-093129.png,samba-ad,2026-11-11,093129,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",93689
+image(20261111-093612).png,assets/2026-11-11/20261111-093612.png,samba-ad,2026-11-11,093612,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",90616
+image(20261111-093733).png,assets/2026-11-11/20261111-093733.png,samba-ad,2026-11-11,093733,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",95949
+image(20261111-093953).png,assets/2026-11-11/20261111-093953.png,samba-ad,2026-11-11,093953,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",109290
+image(20261111-094245).png,assets/2026-11-11/20261111-094245.png,samba-ad,2026-11-11,094245,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",129878
+image(20261111-094422).png,assets/2026-11-11/20261111-094422.png,samba-ad,2026-11-11,094422,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",74851
+image(20261111-094511).png,assets/2026-11-11/20261111-094511.png,samba-ad,2026-11-11,094511,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",110462
+image(20261111-094623).png,assets/2026-11-11/20261111-094623.png,samba-ad,2026-11-11,094623,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",96384
+image(20261111-094803).png,assets/2026-11-11/20261111-094803.png,samba-ad,2026-11-11,094803,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",114482
+image(20261111-094856).png,assets/2026-11-11/20261111-094856.png,samba-ad,2026-11-11,094856,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",111814
+image(20261111-095028).png,assets/2026-11-11/20261111-095028.png,samba-ad,2026-11-11,095028,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",127120
+image(20261111-095148).png,assets/2026-11-11/20261111-095148.png,samba-ad,2026-11-11,095148,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",109038
+image(20261111-095300).png,assets/2026-11-11/20261111-095300.png,samba-ad,2026-11-11,095300,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",110709
+image(20261111-095423).png,assets/2026-11-11/20261111-095423.png,samba-ad,2026-11-11,095423,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",112573
+image(20261111-095547).png,assets/2026-11-11/20261111-095547.png,samba-ad,2026-11-11,095547,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",145916
+image(20261111-095549).png,assets/2026-11-11/20261111-095549.png,samba-ad,2026-11-11,095549,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",144361
+image(20261111-095707).png,assets/2026-11-11/20261111-095707.png,samba-ad,2026-11-11,095707,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",141559
+image(20261111-095848).png,assets/2026-11-11/20261111-095848.png,samba-ad,2026-11-11,095848,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",92245
+image(20261111-095915).png,assets/2026-11-11/20261111-095915.png,samba-ad,2026-11-11,095915,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",118172
+image(20261111-095958).png,assets/2026-11-11/20261111-095958.png,samba-ad,2026-11-11,095958,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",85242
+image(20261111-100058).png,assets/2026-11-11/20261111-100058.png,samba-ad,2026-11-11,100058,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",587306
+image(20261111-100137).png,assets/2026-11-11/20261111-100137.png,samba-ad,2026-11-11,100137,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",113018
+image(20261111-101031).png,assets/2026-11-11/20261111-101031.png,samba-ad,2026-11-11,101031,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",196282
+image(20261111-101124).png,assets/2026-11-11/20261111-101124.png,samba-ad,2026-11-11,101124,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",118070
+image(20261111-101237).png,assets/2026-11-11/20261111-101237.png,samba-ad,2026-11-11,101237,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",449548
+image(20261111-101556).png,assets/2026-11-11/20261111-101556.png,samba-ad,2026-11-11,101556,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",443511
+image(20261111-101741).png,assets/2026-11-11/20261111-101741.png,samba-ad,2026-11-11,101741,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",150666
+image(20261111-101939).png,assets/2026-11-11/20261111-101939.png,samba-ad,2026-11-11,101939,"Samba AD LAB, namespace, DNS/Kerberos và kiểm tra container",234705
+image(20261112-021407).png,assets/2026-11-12/20261112-021407.png,samba-ad,2026-11-12,021407,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",75214
+image(20261112-022010).png,assets/2026-11-12/20261112-022010.png,samba-ad,2026-11-12,022010,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",94103
+image(20261112-022415).png,assets/2026-11-12/20261112-022415.png,samba-ad,2026-11-12,022415,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",116677
+image(20261112-022647).png,assets/2026-11-12/20261112-022647.png,samba-ad,2026-11-12,022647,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",121515
+image(20261112-022822).png,assets/2026-11-12/20261112-022822.png,samba-ad,2026-11-12,022822,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",111423
+image(20261112-023101).png,assets/2026-11-12/20261112-023101.png,samba-ad,2026-11-12,023101,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",108082
+image(20261112-023241).png,assets/2026-11-12/20261112-023241.png,samba-ad,2026-11-12,023241,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",128046
+image(20261112-023416).png,assets/2026-11-12/20261112-023416.png,samba-ad,2026-11-12,023416,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",113416
+image(20261112-023846).png,assets/2026-11-12/20261112-023846.png,samba-ad,2026-11-12,023846,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",111616
+image(20261112-024201).png,assets/2026-11-12/20261112-024201.png,samba-ad,2026-11-12,024201,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",129885
+image(20261112-024921).png,assets/2026-11-12/20261112-024921.png,samba-ad,2026-11-12,024921,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",117503
+image(20261112-025044).png,assets/2026-11-12/20261112-025044.png,samba-ad,2026-11-12,025044,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",147233
+image(20261112-030736).png,assets/2026-11-12/20261112-030736.png,samba-ad,2026-11-12,030736,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",311081
+image(20261112-031520).png,assets/2026-11-12/20261112-031520.png,samba-ad,2026-11-12,031520,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",151500
+image(20261112-032246).png,assets/2026-11-12/20261112-032246.png,samba-ad,2026-11-12,032246,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",21550
+image(20261112-032459).png,assets/2026-11-12/20261112-032459.png,samba-ad,2026-11-12,032459,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",30362
+image(20261112-032628).png,assets/2026-11-12/20261112-032628.png,samba-ad,2026-11-12,032628,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",36522
+image(20261112-032808).png,assets/2026-11-12/20261112-032808.png,samba-ad,2026-11-12,032808,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",34170
+image(20261112-032918).png,assets/2026-11-12/20261112-032918.png,samba-ad,2026-11-12,032918,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",36570
+image(20261112-033038).png,assets/2026-11-12/20261112-033038.png,samba-ad,2026-11-12,033038,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",33607
+image(20261112-033151).png,assets/2026-11-12/20261112-033151.png,samba-ad,2026-11-12,033151,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",22166
+image(20261112-033316).png,assets/2026-11-12/20261112-033316.png,samba-ad,2026-11-12,033316,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",23427
+image(20261112-033417).png,assets/2026-11-12/20261112-033417.png,samba-ad,2026-11-12,033417,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",34454
+image(20261112-033424).png,assets/2026-11-12/20261112-033424.png,samba-ad,2026-11-12,033424,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",35740
+image(20261112-033732).png,assets/2026-11-12/20261112-033732.png,samba-ad,2026-11-12,033732,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",23968
+image(20261112-034039).png,assets/2026-11-12/20261112-034039.png,samba-ad,2026-11-12,034039,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",147241
+image(20261112-034141).png,assets/2026-11-12/20261112-034141.png,samba-ad,2026-11-12,034141,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",182697
+image(20261112-034416).png,assets/2026-11-12/20261112-034416.png,samba-ad,2026-11-12,034416,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",167465
+image(20261112-034533).png,assets/2026-11-12/20261112-034533.png,samba-ad,2026-11-12,034533,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",158829
+image(20261112-034636).png,assets/2026-11-12/20261112-034636.png,samba-ad,2026-11-12,034636,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",151155
+image(20261112-035337).png,assets/2026-11-12/20261112-035337.png,samba-ad,2026-11-12,035337,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",138434
+image(20261112-035549).png,assets/2026-11-12/20261112-035549.png,samba-ad,2026-11-12,035549,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",867120
+image(20261112-040513).png,assets/2026-11-12/20261112-040513.png,samba-ad,2026-11-12,040513,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",230221
+image(20261112-040822).png,assets/2026-11-12/20261112-040822.png,samba-ad,2026-11-12,040822,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",85335
+image(20261112-041306).png,assets/2026-11-12/20261112-041306.png,samba-ad,2026-11-12,041306,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",262380
+image(20261112-041530).png,assets/2026-11-12/20261112-041530.png,samba-ad,2026-11-12,041530,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",239294
+image(20261112-041709).png,assets/2026-11-12/20261112-041709.png,samba-ad,2026-11-12,041709,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",96126
+image(20261112-041810).png,assets/2026-11-12/20261112-041810.png,samba-ad,2026-11-12,041810,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",35553
+image(20261112-042008).png,assets/2026-11-12/20261112-042008.png,samba-ad,2026-11-12,042008,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",97543
+image(20261112-042335).png,assets/2026-11-12/20261112-042335.png,samba-ad,2026-11-12,042335,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",53636
+image(20261112-042356).png,assets/2026-11-12/20261112-042356.png,samba-ad,2026-11-12,042356,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",40215
+image(20261112-043332).png,assets/2026-11-12/20261112-043332.png,samba-ad,2026-11-12,043332,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",230044
+image(20261112-043714).png,assets/2026-11-12/20261112-043714.png,samba-ad,2026-11-12,043714,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",288162
+image(20261112-043823).png,assets/2026-11-12/20261112-043823.png,samba-ad,2026-11-12,043823,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",293091
+image(20261112-060526).png,assets/2026-11-12/20261112-060526.png,samba-ad,2026-11-12,060526,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",54218
+image(20261112-060832).png,assets/2026-11-12/20261112-060832.png,samba-ad,2026-11-12,060832,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",44912
+image(20261112-061317).png,assets/2026-11-12/20261112-061317.png,samba-ad,2026-11-12,061317,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",50725
+image(20261112-061459).png,assets/2026-11-12/20261112-061459.png,samba-ad,2026-11-12,061459,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",244190
+image(20261112-061756).png,assets/2026-11-12/20261112-061756.png,samba-ad,2026-11-12,061756,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",127401
+image(20261112-062053).png,assets/2026-11-12/20261112-062053.png,samba-ad,2026-11-12,062053,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",165836
+image(20261112-062252).png,assets/2026-11-12/20261112-062252.png,samba-ad,2026-11-12,062252,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",147866
+image(20261112-062448).png,assets/2026-11-12/20261112-062448.png,samba-ad,2026-11-12,062448,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",169469
+image(20261112-062634).png,assets/2026-11-12/20261112-062634.png,samba-ad,2026-11-12,062634,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",265223
+image(20261112-062928).png,assets/2026-11-12/20261112-062928.png,samba-ad,2026-11-12,062928,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",95081
+image(20261112-064001).png,assets/2026-11-12/20261112-064001.png,samba-ad,2026-11-12,064001,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",190174
+image(20261112-064556).png,assets/2026-11-12/20261112-064556.png,samba-ad,2026-11-12,064556,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",195332
+image(20261112-065006).png,assets/2026-11-12/20261112-065006.png,samba-ad,2026-11-12,065006,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",279011
+image(20261112-082355).png,assets/2026-11-12/20261112-082355.png,samba-ad,2026-11-12,082355,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",262864
+image(20261112-083007).png,assets/2026-11-12/20261112-083007.png,samba-ad,2026-11-12,083007,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",348179
+image(20261112-083633).png,assets/2026-11-12/20261112-083633.png,samba-ad,2026-11-12,083633,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",305578
+image(20261112-084010).png,assets/2026-11-12/20261112-084010.png,samba-ad,2026-11-12,084010,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",253136
+image(20261112-092127).png,assets/2026-11-12/20261112-092127.png,samba-ad,2026-11-12,092127,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",228490
+image(20261112-092829).png,assets/2026-11-12/20261112-092829.png,samba-ad,2026-11-12,092829,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",30777
+image(20261112-092845).png,assets/2026-11-12/20261112-092845.png,samba-ad,2026-11-12,092845,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",337395
+image(20261112-093531).png,assets/2026-11-12/20261112-093531.png,samba-ad,2026-11-12,093531,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",248082
+image(20261112-093547).png,assets/2026-11-12/20261112-093547.png,samba-ad,2026-11-12,093547,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",306734
+image(20261112-094055).png,assets/2026-11-12/20261112-094055.png,samba-ad,2026-11-12,094055,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",252428
+image(20261112-094334).png,assets/2026-11-12/20261112-094334.png,samba-ad,2026-11-12,094334,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",244904
+image(20261112-095357).png,assets/2026-11-12/20261112-095357.png,samba-ad,2026-11-12,095357,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",242914
+image(20261112-095421).png,assets/2026-11-12/20261112-095421.png,samba-ad,2026-11-12,095421,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",82479
+image(20261112-095730).png,assets/2026-11-12/20261112-095730.png,samba-ad,2026-11-12,095730,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",276933
+image(20261112-095743).png,assets/2026-11-12/20261112-095743.png,samba-ad,2026-11-12,095743,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",91580
+image(20261112-095900).png,assets/2026-11-12/20261112-095900.png,samba-ad,2026-11-12,095900,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",94196
+image(20261112-100011).png,assets/2026-11-12/20261112-100011.png,samba-ad,2026-11-12,100011,"Windows Server quản trị AD, Proxmox VM, công cụ RSAT và DNS",258565
+image(20261113-011734).png,assets/2026-11-13/20261113-011734.png,samba-ad,2026-11-13,011734,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",78149
+image(20261113-012101).png,assets/2026-11-13/20261113-012101.png,samba-ad,2026-11-13,012101,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",90716
+image(20261113-012525).png,assets/2026-11-13/20261113-012525.png,samba-ad,2026-11-13,012525,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",247598
+image(20261113-013058).png,assets/2026-11-13/20261113-013058.png,samba-ad,2026-11-13,013058,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",305719
+image(20261113-013301).png,assets/2026-11-13/20261113-013301.png,samba-ad,2026-11-13,013301,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",30673
+image(20261113-013443).png,assets/2026-11-13/20261113-013443.png,samba-ad,2026-11-13,013443,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",47642
+image(20261113-013648).png,assets/2026-11-13/20261113-013648.png,samba-ad,2026-11-13,013648,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",44567
+image(20261113-013852).png,assets/2026-11-13/20261113-013852.png,samba-ad,2026-11-13,013852,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",74541
+image(20261113-014312).png,assets/2026-11-13/20261113-014312.png,samba-ad,2026-11-13,014312,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",36686
+image(20261113-014518).png,assets/2026-11-13/20261113-014518.png,samba-ad,2026-11-13,014518,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",18636
+image(20261113-014645).png,assets/2026-11-13/20261113-014645.png,samba-ad,2026-11-13,014645,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",97104
+image(20261113-015054).png,assets/2026-11-13/20261113-015054.png,samba-ad,2026-11-13,015054,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",85633
+image(20261113-015259).png,assets/2026-11-13/20261113-015259.png,samba-ad,2026-11-13,015259,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",96393
+image(20261113-015525).png,assets/2026-11-13/20261113-015525.png,samba-ad,2026-11-13,015525,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",100228
+image(20261113-015812).png,assets/2026-11-13/20261113-015812.png,samba-ad,2026-11-13,015812,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",102343
+image(20261113-020006).png,assets/2026-11-13/20261113-020006.png,samba-ad,2026-11-13,020006,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",107388
+image(20261113-020216).png,assets/2026-11-13/20261113-020216.png,samba-ad,2026-11-13,020216,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",89326
+image(20261113-020559).png,assets/2026-11-13/20261113-020559.png,samba-ad,2026-11-13,020559,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",99322
+image(20261113-020748).png,assets/2026-11-13/20261113-020748.png,samba-ad,2026-11-13,020748,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",149955
+image(20261113-021113).png,assets/2026-11-13/20261113-021113.png,samba-ad,2026-11-13,021113,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",145009
+image(20261113-021314).png,assets/2026-11-13/20261113-021314.png,samba-ad,2026-11-13,021314,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",69837
+image(20261113-021426).png,assets/2026-11-13/20261113-021426.png,samba-ad,2026-11-13,021426,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",135114
+image(20261113-021532).png,assets/2026-11-13/20261113-021532.png,samba-ad,2026-11-13,021532,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",115084
+image(20261113-021707).png,assets/2026-11-13/20261113-021707.png,samba-ad,2026-11-13,021707,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",119998
+image(20261113-021754).png,assets/2026-11-13/20261113-021754.png,samba-ad,2026-11-13,021754,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",123519
+image(20261113-021904).png,assets/2026-11-13/20261113-021904.png,samba-ad,2026-11-13,021904,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",53818
+image(20261113-022014).png,assets/2026-11-13/20261113-022014.png,samba-ad,2026-11-13,022014,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",17472
+image(20261113-022137).png,assets/2026-11-13/20261113-022137.png,samba-ad,2026-11-13,022137,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",88761
+image(20261113-022409).png,assets/2026-11-13/20261113-022409.png,samba-ad,2026-11-13,022409,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",99918
+image(20261113-023159).png,assets/2026-11-13/20261113-023159.png,samba-ad,2026-11-13,023159,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",261345
+image(20261113-023336).png,assets/2026-11-13/20261113-023336.png,samba-ad,2026-11-13,023336,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",42977
+image(20261113-023725).png,assets/2026-11-13/20261113-023725.png,samba-ad,2026-11-13,023725,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",315323
+image(20261113-024631).png,assets/2026-11-13/20261113-024631.png,samba-ad,2026-11-13,024631,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",280166
+image(20261113-025323).png,assets/2026-11-13/20261113-025323.png,samba-ad,2026-11-13,025323,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",27999
+image(20261113-025557).png,assets/2026-11-13/20261113-025557.png,samba-ad,2026-11-13,025557,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",261108
+image(20261113-025645).png,assets/2026-11-13/20261113-025645.png,samba-ad,2026-11-13,025645,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",261108
+image(20261113-032831).png,assets/2026-11-13/20261113-032831.png,samba-ad,2026-11-13,032831,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",138249
+image(20261113-034657).png,assets/2026-11-13/20261113-034657.png,samba-ad,2026-11-13,034657,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",342105
+image(20261113-035517).png,assets/2026-11-13/20261113-035517.png,samba-ad,2026-11-13,035517,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",351436
+image(20261113-035901).png,assets/2026-11-13/20261113-035901.png,samba-ad,2026-11-13,035901,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",388707
+image(20261113-040123).png,assets/2026-11-13/20261113-040123.png,samba-ad,2026-11-13,040123,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",308768
+image(20261113-040305).png,assets/2026-11-13/20261113-040305.png,samba-ad,2026-11-13,040305,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",302387
+image(20261113-040652).png,assets/2026-11-13/20261113-040652.png,samba-ad,2026-11-13,040652,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",333433
+image(20261113-040934).png,assets/2026-11-13/20261113-040934.png,samba-ad,2026-11-13,040934,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",276958
+image(20261113-041316).png,assets/2026-11-13/20261113-041316.png,samba-ad,2026-11-13,041316,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",214077
+image(20261113-041450).png,assets/2026-11-13/20261113-041450.png,samba-ad,2026-11-13,041450,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",74219
+image(20261113-041659).png,assets/2026-11-13/20261113-041659.png,samba-ad,2026-11-13,041659,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",76937
+image(20261113-041929).png,assets/2026-11-13/20261113-041929.png,samba-ad,2026-11-13,041929,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",81917
+image(20261113-042050).png,assets/2026-11-13/20261113-042050.png,samba-ad,2026-11-13,042050,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",200512
+image(20261113-042340).png,assets/2026-11-13/20261113-042340.png,samba-ad,2026-11-13,042340,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",54661
+image(20261113-042556).png,assets/2026-11-13/20261113-042556.png,samba-ad,2026-11-13,042556,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",259894
+image(20261113-042754).png,assets/2026-11-13/20261113-042754.png,samba-ad,2026-11-13,042754,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",136670
+image(20261113-042852).png,assets/2026-11-13/20261113-042852.png,samba-ad,2026-11-13,042852,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",197497
+image(20261113-042945).png,assets/2026-11-13/20261113-042945.png,samba-ad,2026-11-13,042945,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",203137
+image(20261113-043137).png,assets/2026-11-13/20261113-043137.png,samba-ad,2026-11-13,043137,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",188995
+image(20261113-043145).png,assets/2026-11-13/20261113-043145.png,samba-ad,2026-11-13,043145,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",241340
+image(20261113-043327).png,assets/2026-11-13/20261113-043327.png,samba-ad,2026-11-13,043327,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",176550
+image(20261113-043442).png,assets/2026-11-13/20261113-043442.png,samba-ad,2026-11-13,043442,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",63139
+image(20261113-062509).png,assets/2026-11-13/20261113-062509.png,samba-ad,2026-11-13,062509,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",61375
+image(20261113-062939).png,assets/2026-11-13/20261113-062939.png,samba-ad,2026-11-13,062939,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",154471
+image(20261113-063314).png,assets/2026-11-13/20261113-063314.png,samba-ad,2026-11-13,063314,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",153406
+image(20261113-063729).png,assets/2026-11-13/20261113-063729.png,samba-ad,2026-11-13,063729,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",157166
+image(20261113-063941).png,assets/2026-11-13/20261113-063941.png,samba-ad,2026-11-13,063941,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",313681
+image(20261113-064151).png,assets/2026-11-13/20261113-064151.png,samba-ad,2026-11-13,064151,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",66003
+image(20261113-064358).png,assets/2026-11-13/20261113-064358.png,samba-ad,2026-11-13,064358,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",225262
+image(20261113-064619).png,assets/2026-11-13/20261113-064619.png,samba-ad,2026-11-13,064619,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",47677
+image(20261113-064754).png,assets/2026-11-13/20261113-064754.png,samba-ad,2026-11-13,064754,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",47064
+image(20261113-064856).png,assets/2026-11-13/20261113-064856.png,samba-ad,2026-11-13,064856,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",303999
+image(20261113-065113).png,assets/2026-11-13/20261113-065113.png,samba-ad,2026-11-13,065113,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",242870
+image(20261113-065241).png,assets/2026-11-13/20261113-065241.png,samba-ad,2026-11-13,065241,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",85902
+image(20261113-065548).png,assets/2026-11-13/20261113-065548.png,samba-ad,2026-11-13,065548,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",47237
+image(20261113-065942).png,assets/2026-11-13/20261113-065942.png,samba-ad,2026-11-13,065942,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",48838
+image(20261113-070039).png,assets/2026-11-13/20261113-070039.png,samba-ad,2026-11-13,070039,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",129971
+image(20261113-070225).png,assets/2026-11-13/20261113-070225.png,samba-ad,2026-11-13,070225,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",21606
+image(20261113-070438).png,assets/2026-11-13/20261113-070438.png,samba-ad,2026-11-13,070438,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",32198
+image(20261113-070700).png,assets/2026-11-13/20261113-070700.png,samba-ad,2026-11-13,070700,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",22701
+image(20261113-071046).png,assets/2026-11-13/20261113-071046.png,samba-ad,2026-11-13,071046,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",14715
+image(20261113-071349).png,assets/2026-11-13/20261113-071349.png,samba-ad,2026-11-13,071349,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",34972
+image(20261113-073534).png,assets/2026-11-13/20261113-073534.png,samba-ad,2026-11-13,073534,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",215463
+image(20261113-075029).png,assets/2026-11-13/20261113-075029.png,samba-ad,2026-11-13,075029,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",60852
+image(20261113-075401).png,assets/2026-11-13/20261113-075401.png,samba-ad,2026-11-13,075401,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",42366
+image(20261113-083746).png,assets/2026-11-13/20261113-083746.png,samba-ad,2026-11-13,083746,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",213947
+image(20261113-084701).png,assets/2026-11-13/20261113-084701.png,samba-ad,2026-11-13,084701,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",269498
+image(20261113-084828).png,assets/2026-11-13/20261113-084828.png,samba-ad,2026-11-13,084828,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",269780
+image(20261113-085114).png,assets/2026-11-13/20261113-085114.png,samba-ad,2026-11-13,085114,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",275556
+image(20261113-085722).png,assets/2026-11-13/20261113-085722.png,samba-ad,2026-11-13,085722,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",7714
+image(20261113-090909).png,assets/2026-11-13/20261113-090909.png,samba-ad,2026-11-13,090909,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",17839
+image(20261113-091111).png,assets/2026-11-13/20261113-091111.png,samba-ad,2026-11-13,091111,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",26266
+image(20261113-093232).png,assets/2026-11-13/20261113-093232.png,samba-ad,2026-11-13,093232,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",53713
+image(20261113-093557).png,assets/2026-11-13/20261113-093557.png,samba-ad,2026-11-13,093557,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",56668
+image(20261113-093835).png,assets/2026-11-13/20261113-093835.png,samba-ad,2026-11-13,093835,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",80537
+image(20261113-094318).png,assets/2026-11-13/20261113-094318.png,samba-ad,2026-11-13,094318,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",87576
+image(20261113-094523).png,assets/2026-11-13/20261113-094523.png,samba-ad,2026-11-13,094523,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",89337
+image(20261113-094809).png,assets/2026-11-13/20261113-094809.png,samba-ad,2026-11-13,094809,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",33795
+image(20261113-095324).png,assets/2026-11-13/20261113-095324.png,samba-ad,2026-11-13,095324,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",24742
+image(20261113-101536).png,assets/2026-11-13/20261113-101536.png,samba-ad,2026-11-13,101536,"Samba AD DNS, Kerberos, join domain và quản trị OU/người dùng",187695
+image(20261114-012059).png,assets/2026-11-14/20261114-012059.png,samba-ad,2026-11-14,012059,Samba AD và Keycloak LDAP User Federation,92727
+image(20261114-012339-1).png,assets/2026-11-14/20261114-012339-1.png,samba-ad,2026-11-14,012339,Samba AD và Keycloak LDAP User Federation,83440
+image(20261114-012339).png,assets/2026-11-14/20261114-012339.png,samba-ad,2026-11-14,012339,Samba AD và Keycloak LDAP User Federation,83440
+image(20261114-012621).png,assets/2026-11-14/20261114-012621.png,samba-ad,2026-11-14,012621,Samba AD và Keycloak LDAP User Federation,31457
+image(20261114-012631).png,assets/2026-11-14/20261114-012631.png,samba-ad,2026-11-14,012631,Samba AD và Keycloak LDAP User Federation,72567
+image(20261114-015125).png,assets/2026-11-14/20261114-015125.png,samba-ad,2026-11-14,015125,Samba AD và Keycloak LDAP User Federation,36459
+image(20261114-015344).png,assets/2026-11-14/20261114-015344.png,samba-ad,2026-11-14,015344,Samba AD và Keycloak LDAP User Federation,104854
+image(20261114-015548).png,assets/2026-11-14/20261114-015548.png,samba-ad,2026-11-14,015548,Samba AD và Keycloak LDAP User Federation,97809
+image(20261114-015929).png,assets/2026-11-14/20261114-015929.png,samba-ad,2026-11-14,015929,Samba AD và Keycloak LDAP User Federation,63243
+image(20261114-020523).png,assets/2026-11-14/20261114-020523.png,samba-ad,2026-11-14,020523,Samba AD và Keycloak LDAP User Federation,54493
+image(20261114-020735).png,assets/2026-11-14/20261114-020735.png,samba-ad,2026-11-14,020735,Samba AD và Keycloak LDAP User Federation,25523
+image(20261114-020747).png,assets/2026-11-14/20261114-020747.png,samba-ad,2026-11-14,020747,Samba AD và Keycloak LDAP User Federation,47138
+image(20261114-021043).png,assets/2026-11-14/20261114-021043.png,samba-ad,2026-11-14,021043,Samba AD và Keycloak LDAP User Federation,26514
+image(20261114-022601).png,assets/2026-11-14/20261114-022601.png,samba-ad,2026-11-14,022601,Samba AD và Keycloak LDAP User Federation,78933
+image(20261114-023143).png,assets/2026-11-14/20261114-023143.png,samba-ad,2026-11-14,023143,Samba AD và Keycloak LDAP User Federation,32758
+image(20261114-023823).png,assets/2026-11-14/20261114-023823.png,samba-ad,2026-11-14,023823,Samba AD và Keycloak LDAP User Federation,42373
+image(20261114-024020).png,assets/2026-11-14/20261114-024020.png,samba-ad,2026-11-14,024020,Samba AD và Keycloak LDAP User Federation,80816
+image(20261114-024205).png,assets/2026-11-14/20261114-024205.png,samba-ad,2026-11-14,024205,Samba AD và Keycloak LDAP User Federation,104297
+image(20261114-024431).png,assets/2026-11-14/20261114-024431.png,samba-ad,2026-11-14,024431,Samba AD và Keycloak LDAP User Federation,97036
+image(20261114-024705).png,assets/2026-11-14/20261114-024705.png,samba-ad,2026-11-14,024705,Samba AD và Keycloak LDAP User Federation,117457
+image(20261114-024836).png,assets/2026-11-14/20261114-024836.png,samba-ad,2026-11-14,024836,Samba AD và Keycloak LDAP User Federation,43828
+image(20261114-025110).png,assets/2026-11-14/20261114-025110.png,samba-ad,2026-11-14,025110,Samba AD và Keycloak LDAP User Federation,42612
+image(20261114-030247).png,assets/2026-11-14/20261114-030247.png,samba-ad,2026-11-14,030247,Samba AD và Keycloak LDAP User Federation,91795
+image(20261114-030734).png,assets/2026-11-14/20261114-030734.png,samba-ad,2026-11-14,030734,Samba AD và Keycloak LDAP User Federation,64142
+image(20261114-032814).png,assets/2026-11-14/20261114-032814.png,samba-ad,2026-11-14,032814,Samba AD và Keycloak LDAP User Federation,95954
+image(20261114-033319).png,assets/2026-11-14/20261114-033319.png,samba-ad,2026-11-14,033319,Samba AD và Keycloak LDAP User Federation,11681
+image(20261114-033618).png,assets/2026-11-14/20261114-033618.png,samba-ad,2026-11-14,033618,Samba AD và Keycloak LDAP User Federation,79297
+image(20261114-033742).png,assets/2026-11-14/20261114-033742.png,samba-ad,2026-11-14,033742,Samba AD và Keycloak LDAP User Federation,101367
+image(20261114-033917).png,assets/2026-11-14/20261114-033917.png,samba-ad,2026-11-14,033917,Samba AD và Keycloak LDAP User Federation,154335
+image(20261114-062009).png,assets/2026-11-14/20261114-062009.png,samba-ad,2026-11-14,062009,Samba AD và Keycloak LDAP User Federation,163499
+image(20261114-062735).png,assets/2026-11-14/20261114-062735.png,samba-ad,2026-11-14,062735,Samba AD và Keycloak LDAP User Federation,179069
+image(20261114-062912).png,assets/2026-11-14/20261114-062912.png,samba-ad,2026-11-14,062912,Samba AD và Keycloak LDAP User Federation,215392
+image(20261114-063543).png,assets/2026-11-14/20261114-063543.png,samba-ad,2026-11-14,063543,Samba AD và Keycloak LDAP User Federation,156872
+image(20261114-064648).png,assets/2026-11-14/20261114-064648.png,samba-ad,2026-11-14,064648,Samba AD và Keycloak LDAP User Federation,182395
+image(20261114-064832).png,assets/2026-11-14/20261114-064832.png,samba-ad,2026-11-14,064832,Samba AD và Keycloak LDAP User Federation,179448
+image(20261114-065400).png,assets/2026-11-14/20261114-065400.png,samba-ad,2026-11-14,065400,Samba AD và Keycloak LDAP User Federation,163257
+image(20261114-070153).png,assets/2026-11-14/20261114-070153.png,samba-ad,2026-11-14,070153,Samba AD và Keycloak LDAP User Federation,247426
+image(20261114-070714).png,assets/2026-11-14/20261114-070714.png,samba-ad,2026-11-14,070714,Samba AD và Keycloak LDAP User Federation,25074
+image(20261114-071359).png,assets/2026-11-14/20261114-071359.png,samba-ad,2026-11-14,071359,Samba AD và Keycloak LDAP User Federation,255918
+image(20261114-072140).png,assets/2026-11-14/20261114-072140.png,samba-ad,2026-11-14,072140,Samba AD và Keycloak LDAP User Federation,204773
+image(20261114-073203).png,assets/2026-11-14/20261114-073203.png,samba-ad,2026-11-14,073203,Samba AD và Keycloak LDAP User Federation,208184
+image(20261114-074148).png,assets/2026-11-14/20261114-074148.png,samba-ad,2026-11-14,074148,Samba AD và Keycloak LDAP User Federation,196806
+image(20261114-074713).png,assets/2026-11-14/20261114-074713.png,samba-ad,2026-11-14,074713,Samba AD và Keycloak LDAP User Federation,204859
+image(20261114-074949).png,assets/2026-11-14/20261114-074949.png,samba-ad,2026-11-14,074949,Samba AD và Keycloak LDAP User Federation,200386
+image(20261114-074959).png,assets/2026-11-14/20261114-074959.png,samba-ad,2026-11-14,074959,Samba AD và Keycloak LDAP User Federation,74431
+image(20261114-075204).png,assets/2026-11-14/20261114-075204.png,samba-ad,2026-11-14,075204,Samba AD và Keycloak LDAP User Federation,216367
+image(20261114-080838).png,assets/2026-11-14/20261114-080838.png,samba-ad,2026-11-14,080838,Samba AD và Keycloak LDAP User Federation,143775
+image(20261114-080956).png,assets/2026-11-14/20261114-080956.png,samba-ad,2026-11-14,080956,Samba AD và Keycloak LDAP User Federation,163059
+image(20261114-081223).png,assets/2026-11-14/20261114-081223.png,samba-ad,2026-11-14,081223,Samba AD và Keycloak LDAP User Federation,172123
+image(20261114-081234).png,assets/2026-11-14/20261114-081234.png,samba-ad,2026-11-14,081234,Samba AD và Keycloak LDAP User Federation,246925
+image(20261114-081800).png,assets/2026-11-14/20261114-081800.png,samba-ad,2026-11-14,081800,Samba AD và Keycloak LDAP User Federation,247858
+image(20261114-081829).png,assets/2026-11-14/20261114-081829.png,samba-ad,2026-11-14,081829,Samba AD và Keycloak LDAP User Federation,190206
+image(20261114-082012).png,assets/2026-11-14/20261114-082012.png,samba-ad,2026-11-14,082012,Samba AD và Keycloak LDAP User Federation,212626
+image(20261114-082024).png,assets/2026-11-14/20261114-082024.png,samba-ad,2026-11-14,082024,Samba AD và Keycloak LDAP User Federation,246235
+image(20261114-082641).png,assets/2026-11-14/20261114-082641.png,samba-ad,2026-11-14,082641,Samba AD và Keycloak LDAP User Federation,123243
+image(20261114-083051).png,assets/2026-11-14/20261114-083051.png,samba-ad,2026-11-14,083051,Samba AD và Keycloak LDAP User Federation,208218
+image(20261114-083355).png,assets/2026-11-14/20261114-083355.png,samba-ad,2026-11-14,083355,Samba AD và Keycloak LDAP User Federation,208915
+image(20261114-083814).png,assets/2026-11-14/20261114-083814.png,samba-ad,2026-11-14,083814,Samba AD và Keycloak LDAP User Federation,235566
+image(20261114-084506).png,assets/2026-11-14/20261114-084506.png,samba-ad,2026-11-14,084506,Samba AD và Keycloak LDAP User Federation,201755
+image(20261114-085030).png,assets/2026-11-14/20261114-085030.png,samba-ad,2026-11-14,085030,Samba AD và Keycloak LDAP User Federation,203487
+image(20261114-085434).png,assets/2026-11-14/20261114-085434.png,samba-ad,2026-11-14,085434,Samba AD và Keycloak LDAP User Federation,206031
+image(20261114-085644).png,assets/2026-11-14/20261114-085644.png,samba-ad,2026-11-14,085644,Samba AD và Keycloak LDAP User Federation,204714
+image(20261114-090349).png,assets/2026-11-14/20261114-090349.png,samba-ad,2026-11-14,090349,Samba AD và Keycloak LDAP User Federation,199831
+image(20261114-090542).png,assets/2026-11-14/20261114-090542.png,samba-ad,2026-11-14,090542,Samba AD và Keycloak LDAP User Federation,208886
+image(20261114-090811).png,assets/2026-11-14/20261114-090811.png,samba-ad,2026-11-14,090811,Samba AD và Keycloak LDAP User Federation,213528
+image(20261114-091225).png,assets/2026-11-14/20261114-091225.png,samba-ad,2026-11-14,091225,Samba AD và Keycloak LDAP User Federation,235458
+image(20261114-091706).png,assets/2026-11-14/20261114-091706.png,samba-ad,2026-11-14,091706,Samba AD và Keycloak LDAP User Federation,126585
+image(20261114-092252).png,assets/2026-11-14/20261114-092252.png,samba-ad,2026-11-14,092252,Samba AD và Keycloak LDAP User Federation,130262
+image(20261114-092519).png,assets/2026-11-14/20261114-092519.png,samba-ad,2026-11-14,092519,Samba AD và Keycloak LDAP User Federation,229986
+image(20261114-092712).png,assets/2026-11-14/20261114-092712.png,samba-ad,2026-11-14,092712,Samba AD và Keycloak LDAP User Federation,216014
+image(20261114-093206).png,assets/2026-11-14/20261114-093206.png,samba-ad,2026-11-14,093206,Samba AD và Keycloak LDAP User Federation,192758
+image(20261114-093331).png,assets/2026-11-14/20261114-093331.png,samba-ad,2026-11-14,093331,Samba AD và Keycloak LDAP User Federation,201551
+image(20261114-094242).png,assets/2026-11-14/20261114-094242.png,private-cloud,2026-11-14,094242,Samba AD và Keycloak LDAP User Federation,90956
+image(20261114-094730).png,assets/2026-11-14/20261114-094730.png,private-cloud,2026-11-14,094730,Samba AD và Keycloak LDAP User Federation,87597
+image(20261114-094853).png,assets/2026-11-14/20261114-094853.png,private-cloud,2026-11-14,094853,Samba AD và Keycloak LDAP User Federation,130721
+image(20261114-095039).png,assets/2026-11-14/20261114-095039.png,private-cloud,2026-11-14,095039,Samba AD và Keycloak LDAP User Federation,118419
+image(20261114-095637).png,assets/2026-11-14/20261114-095637.png,private-cloud,2026-11-14,095637,Samba AD và Keycloak LDAP User Federation,140903
+image(20261116-011543).png,assets/2026-11-16/20261116-011543.png,private-cloud,2026-11-16,011543,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",86048
+image(20261116-011959).png,assets/2026-11-16/20261116-011959.png,private-cloud,2026-11-16,011959,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",95979
+image(20261116-012142).png,assets/2026-11-16/20261116-012142.png,private-cloud,2026-11-16,012142,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",135031
+image(20261116-012435).png,assets/2026-11-16/20261116-012435.png,private-cloud,2026-11-16,012435,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",136554
+image(20261116-012612).png,assets/2026-11-16/20261116-012612.png,private-cloud,2026-11-16,012612,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",125602
+image(20261116-012757).png,assets/2026-11-16/20261116-012757.png,private-cloud,2026-11-16,012757,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",132312
+image(20261116-012954).png,assets/2026-11-16/20261116-012954.png,private-cloud,2026-11-16,012954,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",133012
+image(20261116-013204).png,assets/2026-11-16/20261116-013204.png,private-cloud,2026-11-16,013204,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",366668
+image(20261116-013218-1).png,assets/2026-11-16/20261116-013218-1.png,private-cloud,2026-11-16,013218,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",322456
+image(20261116-013218).png,assets/2026-11-16/20261116-013218.png,private-cloud,2026-11-16,013218,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",128112
+image(20261116-013315).png,assets/2026-11-16/20261116-013315.png,private-cloud,2026-11-16,013315,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",90010
+image(20261116-013514).png,assets/2026-11-16/20261116-013514.png,private-cloud,2026-11-16,013514,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",132528
+image(20261116-014157).png,assets/2026-11-16/20261116-014157.png,private-cloud,2026-11-16,014157,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",162337
+image(20261116-014323).png,assets/2026-11-16/20261116-014323.png,private-cloud,2026-11-16,014323,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",95526
+image(20261116-014431).png,assets/2026-11-16/20261116-014431.png,private-cloud,2026-11-16,014431,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",93227
+image(20261116-014635).png,assets/2026-11-16/20261116-014635.png,private-cloud,2026-11-16,014635,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",54307
+image(20261116-015529).png,assets/2026-11-16/20261116-015529.png,private-cloud,2026-11-16,015529,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",125727
+image(20261116-015800).png,assets/2026-11-16/20261116-015800.png,private-cloud,2026-11-16,015800,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",87506
+image(20261116-015952).png,assets/2026-11-16/20261116-015952.png,private-cloud,2026-11-16,015952,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",108416
+image(20261116-020227).png,assets/2026-11-16/20261116-020227.png,private-cloud,2026-11-16,020227,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",90336
+image(20261116-020350).png,assets/2026-11-16/20261116-020350.png,private-cloud,2026-11-16,020350,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",111967
+image(20261116-020731).png,assets/2026-11-16/20261116-020731.png,private-cloud,2026-11-16,020731,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",228264
+image(20261116-021325).png,assets/2026-11-16/20261116-021325.png,private-cloud,2026-11-16,021325,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",49338
+image(20261116-021544).png,assets/2026-11-16/20261116-021544.png,private-cloud,2026-11-16,021544,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",90703
+image(20261116-021719).png,assets/2026-11-16/20261116-021719.png,private-cloud,2026-11-16,021719,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",85254
+image(20261116-021941).png,assets/2026-11-16/20261116-021941.png,private-cloud,2026-11-16,021941,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",96155
+image(20261116-022626).png,assets/2026-11-16/20261116-022626.png,private-cloud,2026-11-16,022626,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",109719
+image(20261116-022846).png,assets/2026-11-16/20261116-022846.png,private-cloud,2026-11-16,022846,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",121290
+image(20261116-023006).png,assets/2026-11-16/20261116-023006.png,private-cloud,2026-11-16,023006,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",116699
+image(20261116-023146).png,assets/2026-11-16/20261116-023146.png,private-cloud,2026-11-16,023146,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",113186
+image(20261116-023340).png,assets/2026-11-16/20261116-023340.png,private-cloud,2026-11-16,023340,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",113596
+image(20261116-023605).png,assets/2026-11-16/20261116-023605.png,private-cloud,2026-11-16,023605,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",47374
+image(20261116-024016).png,assets/2026-11-16/20261116-024016.png,private-cloud,2026-11-16,024016,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",60374
+image(20261116-024250).png,assets/2026-11-16/20261116-024250.png,private-cloud,2026-11-16,024250,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",87080
+image(20261116-024355).png,assets/2026-11-16/20261116-024355.png,private-cloud,2026-11-16,024355,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",69490
+image(20261116-024714).png,assets/2026-11-16/20261116-024714.png,private-cloud,2026-11-16,024714,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",19451
+image(20261116-024838).png,assets/2026-11-16/20261116-024838.png,private-cloud,2026-11-16,024838,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",17162
+image(20261116-024917).png,assets/2026-11-16/20261116-024917.png,private-cloud,2026-11-16,024917,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",18920
+image(20261116-025244).png,assets/2026-11-16/20261116-025244.png,private-cloud,2026-11-16,025244,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",125598
+image(20261116-025343).png,assets/2026-11-16/20261116-025343.png,private-cloud,2026-11-16,025343,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",703894
+image(20261116-025734).png,assets/2026-11-16/20261116-025734.png,private-cloud,2026-11-16,025734,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",118756
+image(20261116-025842).png,assets/2026-11-16/20261116-025842.png,private-cloud,2026-11-16,025842,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",110571
+image(20261116-030053).png,assets/2026-11-16/20261116-030053.png,private-cloud,2026-11-16,030053,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",566984
+image(20261116-030515).png,assets/2026-11-16/20261116-030515.png,private-cloud,2026-11-16,030515,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",83809
+image(20261116-030714).png,assets/2026-11-16/20261116-030714.png,private-cloud,2026-11-16,030714,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",116241
+image(20261116-031338).png,assets/2026-11-16/20261116-031338.png,private-cloud,2026-11-16,031338,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",121544
+image(20261116-031739).png,assets/2026-11-16/20261116-031739.png,private-cloud,2026-11-16,031739,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",62039
+image(20261116-032234).png,assets/2026-11-16/20261116-032234.png,private-cloud,2026-11-16,032234,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",131398
+image(20261116-032303).png,assets/2026-11-16/20261116-032303.png,private-cloud,2026-11-16,032303,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",131398
+image(20261116-032438).png,assets/2026-11-16/20261116-032438.png,private-cloud,2026-11-16,032438,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",131065
+image(20261116-032516).png,assets/2026-11-16/20261116-032516.png,private-cloud,2026-11-16,032516,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",113521
+image(20261116-032644).png,assets/2026-11-16/20261116-032644.png,private-cloud,2026-11-16,032644,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",124535
+image(20261116-032739).png,assets/2026-11-16/20261116-032739.png,private-cloud,2026-11-16,032739,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",137027
+image(20261116-032947).png,assets/2026-11-16/20261116-032947.png,private-cloud,2026-11-16,032947,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",131672
+image(20261116-033231).png,assets/2026-11-16/20261116-033231.png,private-cloud,2026-11-16,033231,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",123834
+image(20261116-033351).png,assets/2026-11-16/20261116-033351.png,private-cloud,2026-11-16,033351,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",135603
+image(20261116-033513).png,assets/2026-11-16/20261116-033513.png,private-cloud,2026-11-16,033513,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",144210
+image(20261116-033654).png,assets/2026-11-16/20261116-033654.png,private-cloud,2026-11-16,033654,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",147540
+image(20261116-033915).png,assets/2026-11-16/20261116-033915.png,private-cloud,2026-11-16,033915,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",144128
+image(20261116-040255).png,assets/2026-11-16/20261116-040255.png,private-cloud,2026-11-16,040255,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",119264
+image(20261116-040753).png,assets/2026-11-16/20261116-040753.png,private-cloud,2026-11-16,040753,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",272617
+image(20261116-041619).png,assets/2026-11-16/20261116-041619.png,private-cloud,2026-11-16,041619,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",580922
+image(20261116-041801).png,assets/2026-11-16/20261116-041801.png,private-cloud,2026-11-16,041801,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",127402
+image(20261116-045611).png,assets/2026-11-16/20261116-045611.png,private-cloud,2026-11-16,045611,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",118593
+image(20261116-051136).png,assets/2026-11-16/20261116-051136.png,private-cloud,2026-11-16,051136,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",111270
+image(20261116-051249).png,assets/2026-11-16/20261116-051249.png,private-cloud,2026-11-16,051249,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",106488
+image(20261116-061959).png,assets/2026-11-16/20261116-061959.png,private-cloud,2026-11-16,061959,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",227959
+image(20261116-062511).png,assets/2026-11-16/20261116-062511.png,private-cloud,2026-11-16,062511,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",217984
+image(20261116-063030).png,assets/2026-11-16/20261116-063030.png,private-cloud,2026-11-16,063030,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",219039
+image(20261116-063245).png,assets/2026-11-16/20261116-063245.png,private-cloud,2026-11-16,063245,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",593504
+image(20261116-063400).png,assets/2026-11-16/20261116-063400.png,private-cloud,2026-11-16,063400,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",88764
+image(20261116-063530).png,assets/2026-11-16/20261116-063530.png,private-cloud,2026-11-16,063530,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",39531
+image(20261116-063707).png,assets/2026-11-16/20261116-063707.png,private-cloud,2026-11-16,063707,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",17848
+image(20261116-063841).png,assets/2026-11-16/20261116-063841.png,private-cloud,2026-11-16,063841,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",30155
+image(20261116-063955).png,assets/2026-11-16/20261116-063955.png,private-cloud,2026-11-16,063955,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",42607
+image(20261116-064119).png,assets/2026-11-16/20261116-064119.png,private-cloud,2026-11-16,064119,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",37046
+image(20261116-064252).png,assets/2026-11-16/20261116-064252.png,private-cloud,2026-11-16,064252,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",14724
+image(20261116-064426).png,assets/2026-11-16/20261116-064426.png,private-cloud,2026-11-16,064426,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",50235
+image(20261116-064647).png,assets/2026-11-16/20261116-064647.png,private-cloud,2026-11-16,064647,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",62500
+image(20261116-064801).png,assets/2026-11-16/20261116-064801.png,private-cloud,2026-11-16,064801,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",37509
+image(20261116-064953).png,assets/2026-11-16/20261116-064953.png,private-cloud,2026-11-16,064953,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",132481
+image(20261116-065404).png,assets/2026-11-16/20261116-065404.png,private-cloud,2026-11-16,065404,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",30090
+image(20261116-065616).png,assets/2026-11-16/20261116-065616.png,private-cloud,2026-11-16,065616,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",26299
+image(20261116-065755).png,assets/2026-11-16/20261116-065755.png,private-cloud,2026-11-16,065755,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",168674
+image(20261116-065939).png,assets/2026-11-16/20261116-065939.png,private-cloud,2026-11-16,065939,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",56782
+image(20261116-074402).png,assets/2026-11-16/20261116-074402.png,private-cloud,2026-11-16,074402,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",204473
+image(20261116-074627).png,assets/2026-11-16/20261116-074627.png,private-cloud,2026-11-16,074627,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",205797
+image(20261116-074850).png,assets/2026-11-16/20261116-074850.png,private-cloud,2026-11-16,074850,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",155961
+image(20261116-075125).png,assets/2026-11-16/20261116-075125.png,private-cloud,2026-11-16,075125,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",161406
+image(20261116-083945).png,assets/2026-11-16/20261116-083945.png,private-cloud,2026-11-16,083945,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",159224
+image(20261116-084029).png,assets/2026-11-16/20261116-084029.png,private-cloud,2026-11-16,084029,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",159468
+image(20261116-085212).png,assets/2026-11-16/20261116-085212.png,private-cloud,2026-11-16,085212,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",212693
+image(20261116-085409).png,assets/2026-11-16/20261116-085409.png,private-cloud,2026-11-16,085409,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",195653
+image(20261116-085904).png,assets/2026-11-16/20261116-085904.png,private-cloud,2026-11-16,085904,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",265598
+image(20261116-090106).png,assets/2026-11-16/20261116-090106.png,private-cloud,2026-11-16,090106,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",246687
+image(20261116-090430).png,assets/2026-11-16/20261116-090430.png,private-cloud,2026-11-16,090430,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",99133
+image(20261116-090655).png,assets/2026-11-16/20261116-090655.png,private-cloud,2026-11-16,090655,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",232749
+image(20261116-091308).png,assets/2026-11-16/20261116-091308.png,private-cloud,2026-11-16,091308,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",156786
+image(20261116-091436).png,assets/2026-11-16/20261116-091436.png,private-cloud,2026-11-16,091436,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",201257
+image(20261116-091624).png,assets/2026-11-16/20261116-091624.png,private-cloud,2026-11-16,091624,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",151375
+image(20261116-091758).png,assets/2026-11-16/20261116-091758.png,private-cloud,2026-11-16,091758,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",404401
+image(20261116-091945).png,assets/2026-11-16/20261116-091945.png,private-cloud,2026-11-16,091945,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",263019
+image(20261116-092522).png,assets/2026-11-16/20261116-092522.png,private-cloud,2026-11-16,092522,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",136007
+image(20261116-092537).png,assets/2026-11-16/20261116-092537.png,private-cloud,2026-11-16,092537,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",126939
+image(20261116-092606).png,assets/2026-11-16/20261116-092606.png,private-cloud,2026-11-16,092606,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",137548
+image(20261116-092618).png,assets/2026-11-16/20261116-092618.png,private-cloud,2026-11-16,092618,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",137841
+image(20261116-094351).png,assets/2026-11-16/20261116-094351.png,private-cloud,2026-11-16,094351,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",88208
+image(20261116-094610).png,assets/2026-11-16/20261116-094610.png,private-cloud,2026-11-16,094610,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",152336
+image(20261116-094813).png,assets/2026-11-16/20261116-094813.png,private-cloud,2026-11-16,094813,"Nextcloud, Keycloak SSO, HAProxy, CA và sửa lỗi",143691
