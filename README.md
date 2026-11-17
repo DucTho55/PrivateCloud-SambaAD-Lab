@@ -6,7 +6,7 @@
 
 | Dự án | Tài liệu chính | Phạm vi |
 |---|---|---|
-| **Hướng dẫn từng bước** | [Mở bộ hướng dẫn 01 → 07](guides/README.md) | Samba AD, Windows ADUC, HAProxy, Nextcloud, Keycloak, Mailcow, liên kết SSO + Mail |
+| **Hướng dẫn từng bước** | [Mở bộ hướng dẫn 01 → 07](Huong-dan-cau-hinh-Private-Cloud-SSO/README.md) | Samba AD, Windows ADUC, HAProxy, Nextcloud, Keycloak, Mailcow, liên kết SSO + Mail |
 | 01 — Samba AD | [Mở tài liệu Samba AD](01-samba-ad/README.md) | VM Samba DC, DNS/Kerberos, OU/người dùng, Windows ADUC, LDAPS |
 | 02 — Private Cloud | [Mở tài liệu Nextcloud + Keycloak](02-private-cloud/README.md) | Docker, HAProxy, TLS, OIDC SSO, Social Login, chứng chỉ CA |
 | Hai dự án | [Sơ đồ kiến trúc](ARCHITECTURE.md) | Đường đi đăng nhập, máy chủ, domain |
